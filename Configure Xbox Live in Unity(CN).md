@@ -2,7 +2,7 @@
 ## 首先要做的工作
 
 在顺利使用 Unity 插件前你要完成以下步骤:
-1. **[[Create a Xbox Live enabled title|Pre-coding Preparation]]**.
+1. **[[创建一个能使用Xbox Live 的 Title|Pre-coding Preparation]]**.
 2. 安装 **[Windows 10 Anniversary Update](https://microsoft.com/windows)** 或者更新版本的 Windows
 3. **[Unity](https://store.unity.com/)** 版本 **2017.1p5** (or newer), 或 **2017.2.0f3** (or newer) with **Windows Store .NET Scripting Backend** 或 **Windows Store IL2CPP Scripting Backend**.
 4. **[Visual Studio 2017 15.3.3](https://www.visualstudio.com/)** (or newer) with the **Universal Windows Platform development** workload and **Game Development with Unity** workload.

@@ -1,11 +1,9 @@
-# Configure Xbox Live in Unity
-
 This topic will go through the process of setting up the Xbox Live plugin in Unity.
 
 ## Prerequisites
 You will need the following before you can use Xbox Live in Unity:
 
-1. [[Create a Xbox Live enabled title|Pre-coding Preparation]]**.
+1. **[[Create a Xbox Live enabled title|Pre-coding Preparation]]**.
 2. **[Windows 10 Anniversary Update](https://microsoft.com/windows)** or later
 3. **[Unity](https://store.unity.com/)** versions **2017.1p5** (or newer), or **2017.2.0f3** (or newer) with **Windows Store .NET Scripting Backend** or **Windows Store IL2CPP Scripting Backend**.
 4. **[Visual Studio 2017 15.3.3](https://www.visualstudio.com/)** (or newer) with the **Universal Windows Platform development** workload and **Game Development with Unity** workload.

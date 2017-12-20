@@ -1,5 +1,3 @@
-# Pre-coding Preparation
-
 Before writing any code, you must setup a new title on your service configuration portal. You can learn more about service configuration in [Xbox Live Service Configuration](https://docs.microsoft.com/en-us/windows/uwp/xbox-live/xbox-live-service-configuration).
 
 > If you are not familiar with Xbox Live services, please see [Xbox Live documentation](https://docs.microsoft.com/windows/uwp/xbox-live).

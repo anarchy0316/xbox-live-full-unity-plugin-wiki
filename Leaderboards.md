@@ -1,5 +1,3 @@
-# Leaderboards
-
 A leaderboard represents an ordered, numbered list of the players who have achieved the "best" value of a stat. For example, a leaderboard might list the people who have achieved the fastest time on a race lap, so that players can compare their best race time against the best race times achieved by other players.
 
 Leaderboards are based on the player stats that are sent to the Xbox Live service by the game. Therefore, leaderboard data is read only, as you cannot modify them directly.

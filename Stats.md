@@ -1,5 +1,3 @@
-# Stats
-
 Stats are key pieces of information you want to track about a player. The stats that you track with Xbox Live should be stats that are relevant to the player, and are displayed in some manner. There are two kinds of stats, featured stats and normal ones. For more information, see [Player Stats](https://docs.microsoft.com/windows/uwp/xbox-live/leaderboards-and-stats-2017/player-stats).
 
 ## Featured stats
